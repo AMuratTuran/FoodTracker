@@ -5,8 +5,6 @@
 //  Created by Jane Appleseed on 10/17/16.
 //  Copyright © 2016 Apple Inc. All rights reserved.
 //
-// baris3.0 yeter mk 4.0 5555 son endmis
-// murat1.1.1.1..1.1.1.1.1.1.muratratrat muratratrat
 
 import UIKit
 
